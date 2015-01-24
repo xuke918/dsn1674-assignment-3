@@ -3,8 +3,9 @@ html{
 }
 h1{
   font-family: 'Oswald', sans-serif;
-  font-size: 3.5rem;
+  font-size: 3.8rem;
   color: #818076;
+  line-height: .8;
 }
 ol{
   list-style-type: circle;
@@ -29,14 +30,14 @@ figcaption{
 blockquote{
   font-style: italic;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
 }
 dt{
   font-weight:bold ;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 dd{
-  font-size: .77rem;
+  font-size: 1.5rem;
 }
 h2{
   font-size: 2.5rem;
@@ -48,11 +49,20 @@ h3{
 }
 a{
   color: #7a6501;
+  font-size: 1.8rem;
 }
 cite{
   color: #7f7b50;
+  font-size: 1.5rem;
 }
 strong{
   color: purple;
   font-weight: normal;
+}
+p{
+  font-family: 'Oxygen', sans-serif;
+  font-size: 2rem;
+}
+li{
+  font-size: 2rem;
 }
