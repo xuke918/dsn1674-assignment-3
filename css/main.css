@@ -23,9 +23,11 @@ figcaption{
 }
 .m{
   list-style-type: disc;
+  color: #f0c04d;
 }
 .v{
   list-style-type: disc;
+  color: #f0c04d
 }
 blockquote{
   font-style: italic;
