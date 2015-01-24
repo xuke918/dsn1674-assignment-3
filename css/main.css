@@ -24,3 +24,7 @@ figcaption{
 .v{
   list-style-type: disc;
 }
+blockquote{
+  font-style: italic;
+  font-weight: bold;
+}
