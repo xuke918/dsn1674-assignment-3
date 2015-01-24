@@ -1,6 +1,26 @@
 html{
   background-color: #f6f3d2;
 }
-h1 {
+h1{
   font-family: 'Oswald', sans-serif;
+  font-size: 3rem;
+}
+ol{
+  list-style-type: circle;
+}
+.earth{
+  list-style-type: square;
+}
+h2{
+  font-family: 'Oswald', sans-serif;
+}
+figcaption{
+  font-style: italic;
+  font-size: .5rem;
+}
+.m{
+  list-style-type: disc;
+}
+.v{
+  list-style-type: disc;
 }
