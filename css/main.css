@@ -1,15 +1,17 @@
 html{
-  background-color: #f6f3d2;
+  background-color: #d3d3cd;
 }
 h1{
   font-family: 'Oswald', sans-serif;
-  font-size: 3rem;
+  font-size: 3.5rem;
+  color: #818076;
 }
 ol{
   list-style-type: circle;
 }
 .earth{
   list-style-type: square;
+  color: #164ade;
 }
 h2{
   font-family: 'Oswald', sans-serif;
@@ -27,4 +29,30 @@ figcaption{
 blockquote{
   font-style: italic;
   font-weight: bold;
+  font-size: 1.5rem;
+}
+dt{
+  font-weight:bold ;
+  font-size: 1rem;
+}
+dd{
+  font-size: .77rem;
+}
+h2{
+  font-size: 2.5rem;
+  color: #818076;
+}
+h3{
+  font-size: 2.5rem;
+  color: #818076;
+}
+a{
+  color: #7a6501;
+}
+cite{
+  color: #7f7b50;
+}
+strong{
+  color: purple;
+  font-weight: normal;
 }
