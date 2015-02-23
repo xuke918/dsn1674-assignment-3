@@ -8,18 +8,23 @@ h1{
   line-height: .8;
 }
 ol{
-  list-style-type: circle;
+  list-style-type: none;
+
 }
-.earth{
-  list-style-type: square;
-  color: #164ade;
-}
+
 h2{
   font-family: 'Oswald', sans-serif;
+
 }
+.ter{
+  list-style-type: lower-roman;
+  margin: 2em 2em 2em 2em;
+
+  }
+
 figcaption{
   font-style: italic;
-  font-size: .5rem;
+  font-size: 1rem;
 }
 .m{
   list-style-type: disc;
@@ -56,6 +61,7 @@ a{
 cite{
   color: #7f7b50;
   font-size: 1.5rem;
+
 }
 strong{
   color: purple;
